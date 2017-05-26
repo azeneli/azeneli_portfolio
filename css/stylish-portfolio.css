@@ -155,12 +155,12 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background-color: #337ab7;    
-    /*background: url(../img/bg.jpg) no-repeat center center scroll;
+    /*background-color: #337ab7;    */
+    background: url(../img/code-background2.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;*/
+    -o-background-size: cover;
 }
 
 /* About */
@@ -173,6 +173,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    background-color: #18344A;
 }
 
 .service-item {
@@ -276,4 +277,9 @@ footer {
 .contact-email {
     font-size: 2.5em;
     text-decoration: none !important;
+    color: #18344A;
+}
+
+#project-msg {
+    background-color: #18344A;
 }
