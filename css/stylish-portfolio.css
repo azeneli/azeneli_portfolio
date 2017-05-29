@@ -283,3 +283,7 @@ footer {
 #project-msg {
     background-color: #18344A;
 }
+
+.menu--title {
+    color: #fff !important;
+}
